@@ -1,0 +1,56 @@
+body {
+    font-size:13pt;
+    background-color: lightblue;
+    text-align:center;
+}
+.topo{
+    border:4px solid darkblue;
+}
+h1{
+    font:50pt Bolder Arial;
+    color:orangered;
+
+}
+#html{
+    width:150px;
+    position: absolute;
+    top: 20px;
+    left:20px;
+}
+#css{
+    width:100px;
+    position: absolute;
+    top:20px;
+    right:20px;
+}
+.p1{
+    font:25pt "Comic Sans MS";
+    color:Red;
+}
+.p2{
+    font: 20pt "Arial Black";
+    color:green;
+}
+.p3{
+    font:40pt "Freestyle Script";
+    color:white;
+}
+table{
+    border: 4px dashed red;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+td,th {
+    border: 1px solid red;
+    padding: 15px;
+}
+.topotabela{
+    color:red;
+}
+
+#finaldapg{
+    background-color:yellow;
+    text-align:left;
+    width:80%;
+}

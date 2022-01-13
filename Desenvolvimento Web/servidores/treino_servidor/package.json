@@ -1,0 +1,14 @@
+{
+  "name": "treino_servidor",
+  "version": "1.0.0",
+  "description": "Treinando um serverzin com juanlira",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JuanL",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

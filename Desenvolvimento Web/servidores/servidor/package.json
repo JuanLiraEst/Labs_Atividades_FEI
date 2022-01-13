@@ -1,0 +1,15 @@
+{
+  "name": "servidor",
+  "version": "1.0.0",
+  "description": "servidor do juan lira",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "juan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
